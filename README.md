@@ -16,6 +16,8 @@ Entusiasta de tecnologias, graduado em Análise e desenvolvimento de sistemas, M
 
 ### Contatos
 <div> 
+
+<a href="davi.sdk@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"_blank"></a>
   
 ![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
