@@ -14,3 +14,4 @@ Entusiasta de tecnologias, graduado em Análise e desenvolvimento de sistemas, M
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
