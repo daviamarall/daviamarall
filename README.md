@@ -3,7 +3,7 @@
 
 Entusiasta de tecnologias, graduado em Análise e desenvolvimento de sistemas, MBA em Gestão de projetos, e Business Intelligence. Atuo na TI desde 2011, passei por diversos segmentos e projetos que me renderam diversas experiências enrriquecedoras. Busco sempre agregar valor ao que faço, aprender novas tecnologias, compartilhar conhecimento e ideias.
 
-[![image](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB).
+![image](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB).
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)	
 ![image](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
