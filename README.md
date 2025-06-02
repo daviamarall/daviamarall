@@ -21,7 +21,7 @@ Entusiasta de tecnologias, graduado em Análise e desenvolvimento de sistemas, M
 
 ### Contatos
 
-<a href="mailto:davi.sdk@hotmail.com" target="_blank">
+<a href="mailto:daviamarallz@outlock.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/daviamarallz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
