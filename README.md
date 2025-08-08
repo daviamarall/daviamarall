@@ -1,7 +1,7 @@
 
 ## Olá, seja bem vindo ao meu perfil!
 
-Entusiasta de tecnologias, graduado em Análise e desenvolvimento de sistemas, MBA em Gestão de projetos, e Business Intelligence. Atuo na TI desde 2011, passei por diversos segmentos e projetos que me renderam diversas experiências enrriquecedoras. Busco sempre agregar valor ao que faço, aprender novas tecnologias, compartilhar conhecimento e ideias.
+Entusiasta de tecnologias, graduado em Análise e desenvolvimento de sistemas, Pós-Graduação em Business Intelligence. Atuo na TI desde 2011, passei por diversos segmentos e projetos que me renderam diversas experiências enrriquecedoras. Busco sempre agregar valor ao que faço, aprender novas tecnologias, compartilhar conhecimento e ideias.
 
 ![image](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
