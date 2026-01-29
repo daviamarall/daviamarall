@@ -3,11 +3,8 @@
 
 Entusiasta de tecnologias, graduado em Análise e desenvolvimento de sistemas, Pós-Graduação em Business Intelligence. Atuo na TI desde 2011, passei por diversos segmentos e projetos que me renderam diversas experiências enrriquecedoras. Busco sempre agregar valor ao que faço, aprender novas tecnologias, compartilhar conhecimento e ideias.
 
-
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![image](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![image](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![image](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)	
 
