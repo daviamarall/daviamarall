@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="capa-github.svg" width="100%">
-</p>
-
-<img width="1280" height="640" alt="capa-github" src="https://github.com/user-attachments/assets/dc839942-d07a-46d2-9790-7b51a01cd067" />
-<?xml version="1.0" encoding="UTF-8"?>
+<img width="1280" height="640" alt="capa-github" src="https://github.com/user-attachments/assets/92a7b1b6-baa1-46c9-9cf4-2fac1838ec5d" />![Up<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
@@ -290,6 +285,5 @@
 <text x="34" y="628" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="16" fill="#4ade80">SYS.READY</text>
 <text x="640" y="628" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="16" fill="#64748b">UPTIME: 13Y+   |   NODE: UBERLANDIA-BR   |   KERNEL: 6.6</text>
 <text x="1256" y="628" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="16" fill="#00ffd5">github.com/daviamarall</text>
-</svg>
-
+</svg>loading capa-github.svg…]()
 
