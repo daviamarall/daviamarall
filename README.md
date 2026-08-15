@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="capa-github.svg" width="100%">
+</p>
 
 ## Olá, seja bem vindo ao meu perfil!
 
@@ -18,6 +21,9 @@ Entusiasta de tecnologias, graduado em Análise e desenvolvimento de sistemas, P
 <a href="https://wa.me/5534999900889" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">
 </a>
+
+
+
 
 
 
