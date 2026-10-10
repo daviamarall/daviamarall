@@ -32,6 +32,10 @@ Uso este espaço para estudar e praticar **DevOps, SRE, cloud (AWS), containers,
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
+### 🌟 Produto em destaque
+
+**[FortiPass](https://github.com/daviamarall/fortpass-showcase)** — gerenciador de senhas **100% offline** para Android e Chrome. O cofre **nunca sai do dispositivo** (AES-256-GCM + Argon2id + Android Keystore). Publicado na [Google Play](https://play.google.com/store/apps/details?id=com.fortpass.app) e na [Chrome Web Store](https://chromewebstore.google.com/detail/fortpass/eckgokfaekknabpbfjmlnjackkhbidpi). *Código-fonte privado.*
+
 ### 🚀 Projetos em destaque
 
 - **[devops-pipeline-lab](https://github.com/daviamarall/devops-pipeline-lab)** - pipeline CI/CD completo: lint, testes, build de imagem Docker, scan com Trivy e publicação no GHCR via GitHub Actions.
