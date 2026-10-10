@@ -239,66 +239,66 @@
 <rect x="1016" y="390" width="10" height="16" fill="#00ffd5">
   <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
 </rect>
-<rect x="46" y="506" width="100" height="34" rx="8" fill="none" stroke="#8b2fc9" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="46" y="506" width="100" height="34" rx="8" fill="#0a0e14" stroke="#8b2fc9" stroke-width="1" opacity="0.96"/>
-<circle cx="63" cy="523" r="4" fill="#8b2fc9"/>
-<text x="75" y="530" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">.NET</text>
-<rect x="164" y="506" width="126" height="34" rx="8" fill="none" stroke="#f80000" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="164" y="506" width="126" height="34" rx="8" fill="#0a0e14" stroke="#f80000" stroke-width="1" opacity="0.96"/>
-<circle cx="181" cy="523" r="4" fill="#f80000"/>
-<text x="193" y="530" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Oracle</text>
-<rect x="308" y="506" width="88" height="34" rx="8" fill="none" stroke="#ff9900" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="308" y="506" width="88" height="34" rx="8" fill="#0a0e14" stroke="#ff9900" stroke-width="1" opacity="0.96"/>
-<circle cx="325" cy="523" r="4" fill="#ff9900"/>
-<text x="337" y="530" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">AWS</text>
-<rect x="414" y="506" width="189" height="34" rx="8" fill="none" stroke="#0078d7" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="414" y="506" width="189" height="34" rx="8" fill="#0a0e14" stroke="#0078d7" stroke-width="1" opacity="0.96"/>
-<circle cx="431" cy="523" r="4" fill="#0078d7"/>
-<text x="443" y="530" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Azure DevOps</text>
-<rect x="621" y="506" width="126" height="34" rx="8" fill="none" stroke="#ffd43b" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="621" y="506" width="126" height="34" rx="8" fill="#0a0e14" stroke="#ffd43b" stroke-width="1" opacity="0.96"/>
-<circle cx="638" cy="523" r="4" fill="#ffd43b"/>
-<text x="650" y="530" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Python</text>
-<rect x="765" y="506" width="172" height="34" rx="8" fill="none" stroke="#326ce5" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="765" y="506" width="172" height="34" rx="8" fill="#0a0e14" stroke="#326ce5" stroke-width="1" opacity="0.96"/>
-<circle cx="782" cy="523" r="4" fill="#326ce5"/>
-<text x="794" y="530" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Kubernetes</text>
-<rect x="955" y="506" width="134" height="34" rx="8" fill="none" stroke="#f46800" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="955" y="506" width="134" height="34" rx="8" fill="#0a0e14" stroke="#f46800" stroke-width="1" opacity="0.96"/>
-<circle cx="972" cy="523" r="4" fill="#f46800"/>
-<text x="984" y="530" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Grafana</text>
-<rect x="1107" y="506" width="108" height="34" rx="8" fill="none" stroke="#fcc624" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="1107" y="506" width="108" height="34" rx="8" fill="#0a0e14" stroke="#fcc624" stroke-width="1" opacity="0.96"/>
-<circle cx="1124" cy="523" r="4" fill="#fcc624"/>
-<text x="1136" y="530" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Linux</text>
-<rect x="46" y="554" width="100" height="34" rx="8" fill="none" stroke="#f89820" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="46" y="554" width="100" height="34" rx="8" fill="#0a0e14" stroke="#f89820" stroke-width="1" opacity="0.96"/>
-<circle cx="63" cy="571" r="4" fill="#f89820"/>
-<text x="75" y="578" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Java</text>
-<rect x="164" y="554" width="126" height="34" rx="8" fill="none" stroke="#2496ed" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="164" y="554" width="126" height="34" rx="8" fill="#0a0e14" stroke="#2496ed" stroke-width="1" opacity="0.96"/>
-<circle cx="181" cy="571" r="4" fill="#2496ed"/>
-<text x="193" y="578" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Docker</text>
-<rect x="308" y="554" width="164" height="34" rx="8" fill="none" stroke="#7b42bc" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="308" y="554" width="164" height="34" rx="8" fill="#0a0e14" stroke="#7b42bc" stroke-width="1" opacity="0.96"/>
-<circle cx="325" cy="571" r="4" fill="#7b42bc"/>
-<text x="337" y="578" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Terraform</text>
-<rect x="490" y="554" width="126" height="34" rx="8" fill="none" stroke="#7f52ff" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="490" y="554" width="126" height="34" rx="8" fill="#0a0e14" stroke="#7f52ff" stroke-width="1" opacity="0.96"/>
-<circle cx="507" cy="571" r="4" fill="#7f52ff"/>
-<text x="519" y="578" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Kotlin</text>
-<rect x="634" y="554" width="88" height="34" rx="8" fill="none" stroke="#00ffd5" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="634" y="554" width="88" height="34" rx="8" fill="#0a0e14" stroke="#00ffd5" stroke-width="1" opacity="0.96"/>
-<circle cx="651" cy="571" r="4" fill="#00ffd5"/>
-<text x="663" y="578" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">SRE</text>
-<rect x="740" y="554" width="223" height="34" rx="8" fill="none" stroke="#2088ff" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="740" y="554" width="223" height="34" rx="8" fill="#0a0e14" stroke="#2088ff" stroke-width="1" opacity="0.96"/>
-<circle cx="757" cy="571" r="4" fill="#2088ff"/>
-<text x="769" y="578" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">GitHub Actions</text>
-<rect x="981" y="554" width="108" height="34" rx="8" fill="none" stroke="#00758f" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
-<rect x="981" y="554" width="108" height="34" rx="8" fill="#0a0e14" stroke="#00758f" stroke-width="1" opacity="0.96"/>
-<circle cx="998" cy="571" r="4" fill="#00758f"/>
-<text x="1010" y="578" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">MySQL</text>
+<rect x="46" y="510" width="100" height="34" rx="8" fill="none" stroke="#8b2fc9" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="46" y="510" width="100" height="34" rx="8" fill="#0a0e14" stroke="#8b2fc9" stroke-width="1" opacity="0.96"/>
+<circle cx="63" cy="527" r="4" fill="#8b2fc9"/>
+<text x="75" y="534" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">.NET</text>
+<rect x="164" y="510" width="126" height="34" rx="8" fill="none" stroke="#f80000" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="164" y="510" width="126" height="34" rx="8" fill="#0a0e14" stroke="#f80000" stroke-width="1" opacity="0.96"/>
+<circle cx="181" cy="527" r="4" fill="#f80000"/>
+<text x="193" y="534" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Oracle</text>
+<rect x="308" y="510" width="88" height="34" rx="8" fill="none" stroke="#ff9900" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="308" y="510" width="88" height="34" rx="8" fill="#0a0e14" stroke="#ff9900" stroke-width="1" opacity="0.96"/>
+<circle cx="325" cy="527" r="4" fill="#ff9900"/>
+<text x="337" y="534" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">AWS</text>
+<rect x="414" y="510" width="189" height="34" rx="8" fill="none" stroke="#0078d7" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="414" y="510" width="189" height="34" rx="8" fill="#0a0e14" stroke="#0078d7" stroke-width="1" opacity="0.96"/>
+<circle cx="431" cy="527" r="4" fill="#0078d7"/>
+<text x="443" y="534" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Azure DevOps</text>
+<rect x="621" y="510" width="126" height="34" rx="8" fill="none" stroke="#ffd43b" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="621" y="510" width="126" height="34" rx="8" fill="#0a0e14" stroke="#ffd43b" stroke-width="1" opacity="0.96"/>
+<circle cx="638" cy="527" r="4" fill="#ffd43b"/>
+<text x="650" y="534" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Python</text>
+<rect x="765" y="510" width="172" height="34" rx="8" fill="none" stroke="#326ce5" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="765" y="510" width="172" height="34" rx="8" fill="#0a0e14" stroke="#326ce5" stroke-width="1" opacity="0.96"/>
+<circle cx="782" cy="527" r="4" fill="#326ce5"/>
+<text x="794" y="534" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Kubernetes</text>
+<rect x="955" y="510" width="134" height="34" rx="8" fill="none" stroke="#f46800" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="955" y="510" width="134" height="34" rx="8" fill="#0a0e14" stroke="#f46800" stroke-width="1" opacity="0.96"/>
+<circle cx="972" cy="527" r="4" fill="#f46800"/>
+<text x="984" y="534" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Grafana</text>
+<rect x="1107" y="510" width="108" height="34" rx="8" fill="none" stroke="#fcc624" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="1107" y="510" width="108" height="34" rx="8" fill="#0a0e14" stroke="#fcc624" stroke-width="1" opacity="0.96"/>
+<circle cx="1124" cy="527" r="4" fill="#fcc624"/>
+<text x="1136" y="534" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Linux</text>
+<rect x="46" y="558" width="100" height="34" rx="8" fill="none" stroke="#f89820" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="46" y="558" width="100" height="34" rx="8" fill="#0a0e14" stroke="#f89820" stroke-width="1" opacity="0.96"/>
+<circle cx="63" cy="575" r="4" fill="#f89820"/>
+<text x="75" y="582" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Java</text>
+<rect x="164" y="558" width="126" height="34" rx="8" fill="none" stroke="#2496ed" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="164" y="558" width="126" height="34" rx="8" fill="#0a0e14" stroke="#2496ed" stroke-width="1" opacity="0.96"/>
+<circle cx="181" cy="575" r="4" fill="#2496ed"/>
+<text x="193" y="582" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Docker</text>
+<rect x="308" y="558" width="164" height="34" rx="8" fill="none" stroke="#7b42bc" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="308" y="558" width="164" height="34" rx="8" fill="#0a0e14" stroke="#7b42bc" stroke-width="1" opacity="0.96"/>
+<circle cx="325" cy="575" r="4" fill="#7b42bc"/>
+<text x="337" y="582" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Terraform</text>
+<rect x="490" y="558" width="126" height="34" rx="8" fill="none" stroke="#7f52ff" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="490" y="558" width="126" height="34" rx="8" fill="#0a0e14" stroke="#7f52ff" stroke-width="1" opacity="0.96"/>
+<circle cx="507" cy="575" r="4" fill="#7f52ff"/>
+<text x="519" y="582" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">Kotlin</text>
+<rect x="634" y="558" width="88" height="34" rx="8" fill="none" stroke="#00ffd5" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="634" y="558" width="88" height="34" rx="8" fill="#0a0e14" stroke="#00ffd5" stroke-width="1" opacity="0.96"/>
+<circle cx="651" cy="575" r="4" fill="#00ffd5"/>
+<text x="663" y="582" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">SRE</text>
+<rect x="740" y="558" width="223" height="34" rx="8" fill="none" stroke="#2088ff" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="740" y="558" width="223" height="34" rx="8" fill="#0a0e14" stroke="#2088ff" stroke-width="1" opacity="0.96"/>
+<circle cx="757" cy="575" r="4" fill="#2088ff"/>
+<text x="769" y="582" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">GitHub Actions</text>
+<rect x="981" y="558" width="108" height="34" rx="8" fill="none" stroke="#00758f" stroke-width="2" filter="url(#chipGlow)" opacity="0.7"/>
+<rect x="981" y="558" width="108" height="34" rx="8" fill="#0a0e14" stroke="#00758f" stroke-width="1" opacity="0.96"/>
+<circle cx="998" cy="575" r="4" fill="#00758f"/>
+<text x="1010" y="582" font-family="Consolas,'Courier New',monospace" font-weight="bold" font-size="21" fill="#f2fbff">MySQL</text>
 <rect x="0" y="606" width="1280" height="34" fill="#04080c" opacity="0.92"/>
 <line x1="0" y1="606" x2="1280" y2="606" stroke="#00ffd5" stroke-opacity="0.25" stroke-width="1"/>
 <circle cx="20" cy="623" r="4" fill="#4ade80"/>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="capa-github.svg" width="100%">
+  <img src="capa-github-v2.svg" width="100%">
 </p>
 
 <h1 align="center">Davi Amaral</h1>
