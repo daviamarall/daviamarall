@@ -5,7 +5,7 @@
 <h1 align="center">Davi Amaral</h1>
 
 <p align="center">
-  <b>Analista de Sistemas</b> · rumando para <b>DevOps / SRE / Backend</b><br>
+  <b>Analista de Sistemas</b> · <b>DevOps · SRE · Backend</b><br>
   Sustentação de sistemas críticos · automação · observabilidade · cloud
 </p>
 
