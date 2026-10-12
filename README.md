@@ -13,9 +13,9 @@
 
 ### 👨‍💻 Sobre
 
-Atuo em TI desde 2011 e atualmente sou Analista de Sistemas, focado na sustentação, análise e evolução de aplicações corporativas de alta criticidade. Trabalho com investigação de incidentes, análise de causa raiz, bancos de dados e observabilidade — conectando áreas de negócio, engenharia e operações.
+Atuo em TI desde 2011 e atualmente sou Analista de Sistemas, focado na sustentação, análise e evolução de aplicações corporativas de alta criticidade. Trabalho com investigação de incidentes, análise de causa raiz, bancos de dados e observabilidade, conectando áreas de negócio, engenharia e operações.
 
-Uso este espaço para estudar e praticar **DevOps, SRE, cloud (AWS), containers, infraestrutura como código e desenvolvimento backend**, publicando projetos que mostram esse caminho na prática.
+Uso este espaço para estudar e praticar **DevOps, SRE, cloud (AWS), containers, infraestrutura como código e desenvolvimento backend**.
 
 ### 🛠️ Stack & Tecnologias
 
@@ -31,10 +31,6 @@ Uso este espaço para estudar e praticar **DevOps, SRE, cloud (AWS), containers,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-### 🌟 Produto em destaque
-
-**[FortiPass](https://github.com/daviamarall/fortpass-showcase)** — gerenciador de senhas **100% offline** para Android e Chrome. O cofre **nunca sai do dispositivo** (AES-256-GCM + Argon2id + Android Keystore). Publicado na [Google Play](https://play.google.com/store/apps/details?id=com.fortpass.app) e na [Chrome Web Store](https://chromewebstore.google.com/detail/fortpass/eckgokfaekknabpbfjmlnjackkhbidpi). *Código-fonte privado.*
 
 ### 🚀 Projetos em destaque
 
