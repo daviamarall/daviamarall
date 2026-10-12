@@ -39,6 +39,7 @@ Uso este espaço para estudar e praticar **DevOps, SRE, cloud (AWS), containers,
 - **[dotnet-backend-api](https://github.com/daviamarall/dotnet-backend-api)** - API REST em .NET com testes automatizados, Docker e pipeline de integração contínua.
 - **[terraform-lab](https://github.com/daviamarall/terraform-lab)** - infraestrutura como código na AWS (VPC, compute, storage) com boas práticas de state.
 - **[k8s-lab](https://github.com/daviamarall/k8s-lab)** - deploy em Kubernetes com probes, HPA e configuração declarativa.
+- **[FortPass](https://github.com/daviamarall/fortpass-showcase) - FortiPass é um gerenciador de senhas offline-first para Android e Chrome. 
 - **[sre-runbooks](https://github.com/daviamarall/sre-runbooks)** - runbooks, playbooks de incidente e templates de postmortem.
 
 ### 📫 Contatos
