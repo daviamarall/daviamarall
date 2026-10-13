@@ -15,7 +15,7 @@
 
 Atuo no mercado de TI desde 2011 e atualmente sou Analista de Sistemas, com foco em sustentação, análise e evolução de aplicações corporativas. 
 
-Uso este espaço para estudar e praticar **DevOps, SRE, cloud (AWS), containers, infraestrutura como código e desenvolvimento backend**.
+Uso este espaço para estudar e praticar DevOps, SRE, cloud (AWS), containers, infraestrutura como código e desenvolvimento backend.
 
 ### 🛠️ Stack & Tecnologias
 
